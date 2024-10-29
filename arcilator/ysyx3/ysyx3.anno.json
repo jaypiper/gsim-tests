@@ -1,0 +1,9 @@
+[
+  {
+    "class":"firrtl.annotations.LoadMemoryAnnotation",
+    "target":"newtop.SimMEM.ram",
+    "fileName":"/home/chenlu/program/simulator/ready-ro-run/bin/bbl-hello.bin",
+    "hexOrBinary":"h",
+    "originalMemoryNameOpt":"ram"
+  }
+]
